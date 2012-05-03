@@ -69,6 +69,7 @@
     Mathematisch-Naturwissenschaftliche Fakult\"at\\
     Institut f\"ur Informatik\\
     \normalfont
+    \@semester\\
     \@betreuer
   \end{minipage}
 \end{tabular*}
